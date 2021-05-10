@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774261949485",
+    "project_id": "conscience-affa3",
+    "storage_bucket": "conscience-affa3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774261949485:android:59fb5ec7f93b5770b664a4",
+        "android_client_info": {
+          "package_name": "co.surmaisomya.conscience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774261949485-9f2loqnjv03f1tpcngksqbb0p9b5tu0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWTH3NbFeFIBVgF76MKNK-NswiEfRogTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774261949485-9f2loqnjv03f1tpcngksqbb0p9b5tu0a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

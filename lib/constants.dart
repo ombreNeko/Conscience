@@ -7,6 +7,7 @@ const kPrimaryColor = Color(0xff6B9685);
 const kSecondaryColor = Color(0xffFAF8F0);
 const kBodyTextColor = Color(0xff707070);
 const kMutedGreyColor = Color(0xffEDEDED);
+const kDisabledColor = Color(0xff707070);
 
 const kButtonTextStyle = TextStyle(fontSize: 16);
 
